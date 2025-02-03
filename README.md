@@ -1,2 +1,2 @@
-# project1
+# Python+Sql
 n/a
